@@ -7,7 +7,7 @@ namespace Codility
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("SImea");
+            Console.WriteLine("Siema");
         }
     }
 }
